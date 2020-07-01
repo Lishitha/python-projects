@@ -1,0 +1,5 @@
+a = input("enter 2 numbers : ")
+b = input()
+print("first nmbr:" + a + " secnd nmbr :" + b)
+total=int(a)+int(b)
+print("result is" + str(total))
